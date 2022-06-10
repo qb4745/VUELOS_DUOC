@@ -4,7 +4,7 @@ Trabajo recuperativo - Vuelos DUOC
 Realizado para PROGRAMACION DE ALGORITMOS_002V - DUOC Viña del Mar.
 Profesor: HERNAN SAAVEDRA.
 
-                Miembros Del Grupo.
+Miembros Del Grupo.
 
 Miembro Número 1:    Bóris Arriagada
 Miembro Número 2:    Ana González
